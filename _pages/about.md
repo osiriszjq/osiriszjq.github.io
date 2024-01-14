@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in The University of Adelaide, Australian Institute for Machine Learning (AIML)，working with Prof. Simon Lucey.
+I am a PhD student in The University of Adelaide, Australian Institute for Machine Learning (AIML), working with Prof. Simon Lucey.
 
 My research interests are:
 - 3D reconstruction
@@ -70,4 +70,4 @@ My research interests are:
 <span class='anchor' id='-internships'></span>
 
 # 💻 Internships
-- *2019.08 - 2020.07*, [CI2CV lab](https://www.cs.cmu.edu/~CI2CV/), CMU， U.S.
+- *2019.08 - 2020.07*, [CI2CV lab](https://www.cs.cmu.edu/~CI2CV/), CMU, U.S.
