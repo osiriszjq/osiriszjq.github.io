@@ -38,7 +38,7 @@ My research interests are:
 # 📝 Publications
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">robust 2022</div><img src='images/method.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">robust 2023</div><img src='images/method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	'Jianqiao Zheng', Xueqian Li, Sameera Ramasinghe, Simon Lucey. Robust Point Cloud Processing through Positional Embedding. '3DV 2024'
