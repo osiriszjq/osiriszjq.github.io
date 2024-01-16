@@ -41,7 +41,7 @@ My research interests are:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">robust 2023</div><img src='images/method.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	'Jianqiao Zheng', Xueqian Li, Sameera Ramasinghe, Simon Lucey. Robust Point Cloud Processing through Positional Embedding. '3DV 2024'
+-	**Jianqiao Zheng**, Xueqian Li, Sameera Ramasinghe, Simon Lucey. Robust Point Cloud Processing through Positional Embedding. **3DV 2024**
 [[Project Page]](https://osiriszjq.github.io/complex_encoding) [[Code]](https://github.com/osiriszjq/complex_encoding) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870142.pdf)
 
 </div>
@@ -52,17 +52,17 @@ My research interests are:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">complex 2022</div><img src='images/simple_complex_encoding.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	'Jianqiao Zheng', Sameera Ramasinghe, Xueqian Li, Simon Lucey. Trading Positional Complexity vs. Deepness in Coordinate Networks. 'ECCV 2022'
+-	**Jianqiao Zheng**, Sameera Ramasinghe, Xueqian Li, Simon Lucey. Trading Positional Complexity vs. Deepness in Coordinate Networks. **ECCV 2022**
 [[Project Page]](https://osiriszjq.github.io/robustPPE) [[Code]](https://github.com/osiriszjq/robustPPE) [[Paper]](https://arxiv.org/pdf/2309.00339.pdf)
 
 
 </div>
 </div>
 
-- Xueqian Li, 'Jianqiao Zheng', Francesco Ferroni, Jhony Kaesemodel Pointes, Simon Lucey. Fast Neural Scene Flow. 'ICCV 2023'
+- Xueqian Li, **Jianqiao Zheng**, Francesco Ferroni, Jhony Kaesemodel Pointes, Simon Lucey. Fast Neural Scene Flow. **ICCV 2023**
 [[Project Page]](https://Lilac-Lee.github.io/FastNSF) [[Code]](https://github.com/Lilac-Lee/FastNSF) [[Paper]](https://arxiv.org/pdf/2304.09121.pdf)
 
-- 'Jianqiao Zheng', Sameera Ramasinghe, Simon Lucey. Rethinking Positional Encoding. arXiv
+- **Jianqiao Zheng**, Sameera Ramasinghe, Simon Lucey. Rethinking Positional Encoding. arXiv
 [[Project Page]](https://github.com/osiriszjq/Rethinking-positional-encoding) [[Code]](https://github.com/osiriszjq/Rethinking-positional-encoding) [[Paper]](https://arxiv.org/pdf/2107.02561.pdf)
 
 
