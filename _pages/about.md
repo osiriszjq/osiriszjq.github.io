@@ -29,7 +29,7 @@ My research interests are:
 <span class='anchor' id='-educations'></span>
 
 # 🎓 Educations
-- *2021.03 -        *, <a href="https://www.adelaide.edu.au/"><img class="png" src="/images/UoA_logo.png" width="23pt"></a> PhD, computer vision, AIML, The University of Adelaide, Australia. 
+- *2021.03 - 2025.06*, <a href="https://www.adelaide.edu.au/"><img class="png" src="/images/UoA_logo.png" width="23pt"></a> PhD, computer vision, AIML, The University of Adelaide, Australia. 
 - *2017.09 - 2019.06*, <a href="https://www.umich.edu/"><img class="png" src="/images/Umich_logo.png" width="20pt"></a> Master, computer vision, ECE, University of Michigan Ann Arbor, U.S.
 - *2013.09 - 2017.06*, <a href="https://www.hit.edu.cn/"><img class="png" src="/images/HIT_logo.png" width="20pt"></a> Bachelor, automation, Yingcai, Harbin Institute of Technology, China.
 -  
