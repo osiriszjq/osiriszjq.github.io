@@ -43,7 +43,7 @@ My research interests are:
 <div class='paper-box-text' markdown="1">
 
 -	**Jianqiao Zheng**, Xueqian Li, Sameera Ramasinghe, Simon Lucey. Robust Point Cloud Processing through Positional Embedding. **3DV 2024**
-[[Project Page]](https://osiriszjq.github.io/complex_encoding) [[Code]](https://github.com/osiriszjq/complex_encoding) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870142.pdf)
+[[Project Page]](https://osiriszjq.github.io/robustPPE) [[Code]](https://github.com/osiriszjq/robustPPE) [[Paper]](https://arxiv.org/pdf/2309.00339.pdf)
 
 </div>
 </div>
@@ -54,7 +54,7 @@ My research interests are:
 <div class='paper-box-text' markdown="1">
 
 -	**Jianqiao Zheng**, Sameera Ramasinghe, Xueqian Li, Simon Lucey. Trading Positional Complexity vs. Deepness in Coordinate Networks. **ECCV 2022**
-[[Project Page]](https://osiriszjq.github.io/robustPPE) [[Code]](https://github.com/osiriszjq/robustPPE) [[Paper]](https://arxiv.org/pdf/2309.00339.pdf)
+[[Project Page]](https://osiriszjq.github.io/complex_encoding) [[Code]](https://github.com/osiriszjq/complex_encoding) [[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870142.pdf)
 
 
 </div>
