@@ -12,6 +12,22 @@ redirect_from:
 
 I am a Lecturer in the School of Artificial Intelligence at China University of Geosciences (Beijing). I received my PhD from the Australian Institute for Machine Learning (AIML), The University of Adelaide. My research interests include 3D and geometric vision, point clouds and neural fields, Vision Transformers, attention mechanisms, and positional encoding.
 
+<span class='anchor' id='-appointments'></span>
+
+# Appointments
+
+- 2026 - Present, Lecturer, School of Artificial Intelligence, China University of Geosciences (Beijing), China.
+- 2025.07 - 2025.12, PhD Researcher, The University of Adelaide, Australia.
+- 2019.08 - 2020.05, Research Assistant Intern, CI2CV Lab, Carnegie Mellon University, U.S.
+
+<span class='anchor' id='-education'></span>
+
+# Education
+
+- 2021.03 - 2025.06, The University of Adelaide, Australian Institute for Machine Learning (AIML), PhD. Supervisor: Prof. Simon Lucey.
+- 2017.09 - 2019.05, University of Michigan, Ann Arbor, M.S. in Computer Vision.
+- 2013.09 - 2017.05, Harbin Institute of Technology, Honors School, B.S. in Automation.
+
 <span class='anchor' id='-publications'></span>
 
 # Publications
@@ -77,22 +93,6 @@ An ECCV 2022 project studying the trade-off between positional encoding complexi
 
 **Structured ViT Initialization**  
 A NeurIPS 2025 project studying how structured initialization can inject useful visual inductive bias into Vision Transformers without sacrificing their scalable learning behavior.
-
-<span class='anchor' id='-appointments'></span>
-
-# Appointments
-
-- 2026 - Present, Lecturer, School of Artificial Intelligence, China University of Geosciences (Beijing), China.
-- 2025.07 - 2025.12, PhD Researcher, The University of Adelaide, Australia.
-- 2019.08 - 2020.05, Research Assistant Intern, CI2CV Lab, Carnegie Mellon University, U.S.
-
-<span class='anchor' id='-education'></span>
-
-# Education
-
-- 2021.03 - 2025.06, The University of Adelaide, Australian Institute for Machine Learning (AIML), PhD. Supervisor: Prof. Simon Lucey.
-- 2017.09 - 2019.05, University of Michigan, Ann Arbor, M.S. in Computer Vision.
-- 2013.09 - 2017.05, Harbin Institute of Technology, Honors School, B.S. in Automation.
 
 <span class='anchor' id='-teaching'></span>
 
