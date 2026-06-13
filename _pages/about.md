@@ -21,7 +21,7 @@ I am a Lecturer in the School of Artificial Intelligence at China University of 
 
 <span class='anchor' id='-appointments'></span>
 
-# Appointments
+# Professional Experience
 
 - 2026 - Present, Lecturer, School of Artificial Intelligence, China University of Geosciences (Beijing), China.
 - 2025.07 - 2025.12, PhD Researcher, The University of Adelaide, Australia.
