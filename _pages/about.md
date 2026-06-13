@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer in the School of Artificial Intelligence at China University of Geosciences (Beijing). I received my PhD from the Australian Institute for Machine Learning (AIML), The University of Adelaide. My research interests include 3D and geometric vision, point clouds and neural fields, Vision Transformers, attention mechanisms, and positional encoding.
+I am a Lecturer in the School of Artificial Intelligence at China University of Geosciences (Beijing). I received my PhD from the Australian Institute for Machine Learning (AIML), The University of Adelaide. My research interests include 3D and geometric vision, point clouds and neural fields, Vision Transformers, attention mechanisms, and positional encoding. <a href='https://scholar.google.com/citations?user=R8d2QOsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citation"></a>
 
 <span class='anchor' id='-appointments'></span>
 
@@ -24,9 +31,9 @@ I am a Lecturer in the School of Artificial Intelligence at China University of 
 
 # Education
 
-- 2021.03 - 2025.06, The University of Adelaide, Australian Institute for Machine Learning (AIML), PhD. Supervisor: Prof. Simon Lucey.
-- 2017.09 - 2019.05, University of Michigan, Ann Arbor, M.S. in Computer Vision.
-- 2013.09 - 2017.05, Harbin Institute of Technology, Honors School, B.S. in Automation.
+- 2021.03 - 2025.06, <a href="https://www.adelaide.edu.au/"><img class="png" src="/images/UoA_logo.png" width="23pt" alt="The University of Adelaide"></a> The University of Adelaide, Australian Institute for Machine Learning (AIML), PhD. Supervisor: Prof. Simon Lucey.
+- 2017.09 - 2019.05, <a href="https://www.umich.edu/"><img class="png" src="/images/Umich_logo.png" width="20pt" alt="University of Michigan"></a> University of Michigan, Ann Arbor, M.S. in Computer Vision.
+- 2013.09 - 2017.05, <a href="https://www.hit.edu.cn/"><img class="png" src="/images/HIT_logo.png" width="20pt" alt="Harbin Institute of Technology"></a> Harbin Institute of Technology, Honors School, B.S. in Automation.
 
 <span class='anchor' id='-publications'></span>
 
@@ -72,11 +79,22 @@ arXiv / under submission. [[Paper]](https://arxiv.org/abs/2511.18278)
 
 # Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ViT initialization</div><img src='images/structured_vit_initialization.png' alt="Structured ViT initialization" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Structured ViT Initialization**  
+NeurIPS 2025 work on injecting useful visual inductive bias into Vision Transformers through structured initialization while preserving scalable learning behavior.  
+[[Paper]](https://arxiv.org/abs/2404.01139)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3D vision</div><img src='images/method.png' alt="Robust point cloud processing" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Point Cloud Processing**  
-A research line on improving point cloud robustness through positional embeddings, with theoretical analysis of bandwidth control and empirical evaluation under noise and distribution shifts.
+3DV 2024 project on improving point cloud robustness through positional embeddings, with theoretical analysis of bandwidth control and empirical evaluation under noise and distribution shifts.  
+[[Project]](https://osiriszjq.github.io/robustPPE) [[Code]](https://github.com/osiriszjq/robustPPE) [[Paper]](https://arxiv.org/abs/2309.00339)
 
 </div>
 </div>
@@ -90,9 +108,6 @@ An ECCV 2022 project studying the trade-off between positional encoding complexi
 
 </div>
 </div>
-
-**Structured ViT Initialization**  
-A NeurIPS 2025 project studying how structured initialization can inject useful visual inductive bias into Vision Transformers without sacrificing their scalable learning behavior.
 
 <span class='anchor' id='-teaching'></span>
 
